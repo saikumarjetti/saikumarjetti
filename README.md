@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saikumarjetti
-- 👀 I’m interested in cloud, fullStack.
+- 👀 I’m interested in OpenSource cloud, fullStack.
 - 🌱 I’m currently learning MERN stack.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
